@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ikfast_labview", "ikfast_labview.vcproj", "{4A59AA10-F1CB-4000-91CB-25E083EA3585}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static_ikfast", "static_ikfast\static_ikfast.vcproj", "{D2169412-FBB2-4759-9B1B-2AFD4D6E3B68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A59AA10-F1CB-4000-91CB-25E083EA3585}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A59AA10-F1CB-4000-91CB-25E083EA3585}.Debug|Win32.Build.0 = Debug|Win32
+		{4A59AA10-F1CB-4000-91CB-25E083EA3585}.Release|Win32.ActiveCfg = Release|Win32
+		{4A59AA10-F1CB-4000-91CB-25E083EA3585}.Release|Win32.Build.0 = Release|Win32
+		{D2169412-FBB2-4759-9B1B-2AFD4D6E3B68}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2169412-FBB2-4759-9B1B-2AFD4D6E3B68}.Debug|Win32.Build.0 = Debug|Win32
+		{D2169412-FBB2-4759-9B1B-2AFD4D6E3B68}.Release|Win32.ActiveCfg = Release|Win32
+		{D2169412-FBB2-4759-9B1B-2AFD4D6E3B68}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

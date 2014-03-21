@@ -11,3 +11,13 @@
 *.lai
 *.la
 *.a
+
+# Reports
+*.htm
+
+# MSVC 
+*.ncb
+*.suo
+*.user
+Release
+Debug
